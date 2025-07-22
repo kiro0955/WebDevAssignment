@@ -1,4 +1,4 @@
 name: Kirolos Ashraf Ishak
 phone number: 01210838042
 email: kiro0955@gmail.com
-repo: https://github.com/kiro0955/WebDevAssignment.git
+repo: https://kiro0955.github.io/WebDevAssignment/
